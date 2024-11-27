@@ -4,15 +4,15 @@ Give your old USB a second chance: this repo will make your USB portable compute
 Without any GPU, CPU, RAM, Motherboard but you need a phone or a PC
 
 ## ❤️ **Made by**
-Lyrex: CEO of NovaOS, FlexOS, DuraPortable (this project)
-Dark Dot: Our credit, programmer
+Lyrex: CEO of NovaOS, FlexOS, DuraPortable (this project),
+Dark Dot: Our credit, programmer,
 You: Viewing our project
 
 ## 💻 Credits
-NovaOS Solaris
+NovaOS Solaris,
 FlexOS
 
 ## 💻📱 Supported on
-All of the USBs
-All of the computers
-All of the phones
+All of the USBs,
+all of the computers,
+all of the phones
